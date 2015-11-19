@@ -3,4 +3,6 @@ class pentagono:
 		self.lado = lado
 
         def perimetro(self):
-   	        return 0
+   	         return 0
+
+
