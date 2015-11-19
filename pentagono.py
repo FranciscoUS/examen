@@ -3,7 +3,7 @@ class pentagono:
 		self.lado = lado
 
         def perimeter(self):
-   	        return 5 + self.lado
+   	        return 5 * self.lado
 
 	def area(self):
 		return 0
